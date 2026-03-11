@@ -1,1 +1,6 @@
 This is an initial text file
+
+- hakbun : 201900614
+- name : Dowon Kim
+- Department : Computer Electronics System
+
